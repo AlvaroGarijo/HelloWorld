@@ -20,9 +20,8 @@ Bienvenido a la nave, ¡despegamos!
 ```
 
 | id | Alias | Nombre | Apellido | Repositorio |
-|____|_______|________|_ ________|_____________|
-| 1 | AlvaroGarijo | Alvaro | Garijo | [BlackJack-Proyect] [https://github.com/AlvaroGarijo/BlackJack-Proyect]|
-
+| -- |-------|--------|----------|-------------|
+| 1 | AlvaroGarijo | Alvaro | Garijo | :[BlackJack-Proyect]  [https://github.com/AlvaroGarijo/BlackJack-Proyect]|
 
 # More info
   * [Hello-World Project - Github](https://guides.github.com/activities/hello-world/#commit)

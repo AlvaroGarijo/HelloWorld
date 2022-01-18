@@ -20,9 +20,8 @@ Bienvenido a la nave, ¡despegamos!
 ```
 
 | id | Alias | Nombre | Apellido | Repositorio |
-|____|_______|________|__________|_____________|
+|____|_______|________|_ ________|_____________|
 | 1 | AlvaroGarijo | Alvaro | Garijo | [BlackJack-Proyect] [https://github.com/AlvaroGarijo/BlackJack-Proyect]|
-
 
 
 # More info
